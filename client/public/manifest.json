@@ -1,0 +1,6 @@
+{
+  "short_name": "The right Questions",
+  "name": "A Survey Monkey clone",
+  "start_url": ".",
+  "display": "standalone"
+}
